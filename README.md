@@ -5,7 +5,7 @@
 <img src='icon.png' width=110 height=110 align='right'/>
 
 ## The App
-[Download latest releases](https://github.com/vladimirkosolapov/mak-native/releases)  
+[Download latest release](https://github.com/vladimirkosolapov/mak-native/releases)  
 [Web version](https://github.com/inns/mak)
 
 For detailed documentation and live demos, please visit https://github.com/inns/mak and https://inns.studio/mak.  
