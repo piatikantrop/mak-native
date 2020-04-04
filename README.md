@@ -17,7 +17,7 @@ Mak<sup>native</sup> is a version of [Mak](https://mak.ink) designed specificall
 
 The application caches necessary resources at first launch for further offline work and supports all features of the web version. Because it's standalone application you don't need to open a browser and spend computer's resources to load it. Also you can control the application's permissions via the Chrome menu, as it fully integrates with the system.
 
-Features like Drag'n'Drop, Files app context menu integration and quick text find are supported by default.
+Features like Drag'n'Drop, Files app context menu integration and quick text finding are supported by default.
 
 <div align="center">
   <img src='preview.png' width=625 />
