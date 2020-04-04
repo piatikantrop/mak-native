@@ -27,8 +27,8 @@ Features like Drag'n'Drop, Files app context menu integration and quick text fin
 
 Most people would usually install by drag «.crx» file to a browser window, but you can install from source too (especially with installation error).
 
-* Click the «Download ZIP» button near the top of the page and unzip it.
-* Visit «chrome://extensions».
+* Click the «Download ZIP» button near the top of the page and unzip archive.
+* Visit «chrome://extensions» page.
 * Click the checkbox «Developer Mode» on the top.
 * Click «Load unpacked extension».
 * Browse to the unzipped folder and press «Open».
@@ -36,4 +36,4 @@ Most people would usually install by drag «.crx» file to a browser window, but
 
 ## Acknowledgement
 
-Mak<sup>native</sup> based on [Mak](https://mak.ink) by [Shu Ding](https://shud.in)
+Mak<sup>native</sup> based on [Mak](https://mak.ink) by [Shu Ding](https://shud.in).
