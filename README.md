@@ -36,4 +36,5 @@ Most people would usually install by drag «.crx» file to a browser window, but
 
 ## Acknowledgement
 
-Mak<sup>native</sup> based on [Mak](https://mak.ink) by [Shu Ding](https://shud.in).
+Mak<sup>native</sup> based on [Mak](https://mak.ink) by [Shu Ding](https://shud.in).  
+Chrome OS app created by [Vladimir Kosolapov](https://vladimirkosolapov.com).
